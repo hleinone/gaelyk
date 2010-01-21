@@ -83,10 +83,6 @@
 						</goals>
 					</execution>
 				</executions>
-				<configuration>
-					<verbose>true</verbose>
-					<targetBytecode>5</targetBytecode>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
